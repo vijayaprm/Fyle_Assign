@@ -1,0 +1,62 @@
+.error-icon {
+    display: none;
+    color: red;
+    cursor: pointer;
+    font-size: x-large;
+    position: absolute; 
+    top: 2px; 
+    right: 25px; 
+  }
+.error-icon:hover:after {
+    content: attr(title);
+    position: absolute;
+    background: #007bff; 
+    color: #fff; 
+    padding: 5px;
+    font-size: small;
+    border-radius: 3px;
+    margin-top: 5px; 
+    left: calc(100% + 5px);
+    z-index: 999;
+    width: 200px; 
+    text-align: center; 
+}
+.container {
+    width: fit-content;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 100px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border: 1px solid #000; 
+}
+
+#taxForm {
+    width: 400px; 
+  }
+
+.question-mark {
+    cursor: pointer;
+    margin-left: 5px;
+    position: relative; 
+}
+
+.question-mark:hover:after {
+    content: attr(title);
+    position: absolute;
+    background: #007bff; 
+    color: #fff; 
+    padding: 5px;
+    border-radius: 3px;
+    margin-top: 5px; 
+    left: calc(100% + 5px); 
+    z-index: 999;
+    width: 200px; 
+    text-align: center;
+}
+.container1{
+    display: flex;
+    justify-content: center;
+}
