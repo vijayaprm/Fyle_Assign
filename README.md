@@ -43,3 +43,25 @@ Interact with the Web Page:
 Once the HTML file is loaded in your web browser, you can interact with the webpage as usual.
 Verify that the JavaScript functionality works as expected. For example, if there are buttons to click or forms to submit, ensure that they trigger the desired actions.
 Use the browser's developer tools to debug any JavaScript errors or view console.log 
+
+
+Results
+
+Result 1:
+
+![1_Result](https://raw.githubusercontent.com/vijayaprm/Fyle_Assign/main/1_Result.png)
+
+Result 2:
+
+
+![2_Result](https://raw.githubusercontent.com/vijayaprm/Fyle_Assign/main/2_Result.png)
+
+Result 3:
+
+
+![3_Result](https://raw.githubusercontent.com/vijayaprm/Fyle_Assign/main/3_Result.png)
+
+Result 4:
+
+
+![4_Result](https://raw.githubusercontent.com/vijayaprm/Fyle_Assign/main/4_Result.png)
